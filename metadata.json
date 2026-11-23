@@ -1,0 +1,6 @@
+{
+  "name": "Maatram Connect",
+  "description": "Volunteering portal for Maatram Foundation to discover opportunities, track verified hours, manage interview availability, and celebrate volunteer impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
